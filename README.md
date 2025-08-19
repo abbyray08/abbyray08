@@ -1,5 +1,3 @@
-
-##Bio
 <div> 
   <p>Hi there, I'm Abby! </p>
   <p>I'm a graduate student in Computer Science at Tufts University 🐘. </p>
