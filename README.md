@@ -1,9 +1,9 @@
 <div> 
-  <p>Hi there, I'm Abby! </p>
+  <h2>Hi there, I'm Abby Kozlowski! </h2>
   <p>I'm a graduate student in Computer Science at Tufts University 🐘. </p>
 </div>
 
-Languages and Tools
+<h2>Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,jquery,php,express,nodejs,mongodb,mysql,postgres" />
