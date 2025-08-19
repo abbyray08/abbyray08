@@ -1,4 +1,4 @@
-## Hi there! I'm a graduate student in Computer Science at Tufts University 🐘 interested in pursuing a career in cybersecurity. 
+<div> Hi there, I'm Abby, a graduate student in Computer Science at Tufts University 🐘 interested in pursuing a career in cybersecurity. </div>
 
 <!--
 **abbyray08/abbyray08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
