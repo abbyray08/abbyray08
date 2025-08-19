@@ -6,7 +6,7 @@
 
 <div>
   <h2>Pinned Repos</h2>
-  <p></p>
+  <p>nps_rec_frontend and nps_rec_backend are the frontend and backend to a US National Parks System webapp that helps the user determine what national park they'd like to visit based on their interests, time of year, and weather preferences. I primarily worked on the backend and our database in MongoDB. </p>
 </div>
 
 <div>
