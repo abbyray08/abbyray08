@@ -1,5 +1,17 @@
-<div> <p>Hi there, I'm Abby! </p>
-  <p>I'm a graduate student in Computer Science at Tufts University 🐘. </p></div>
+
+##Bio
+<div> 
+  <p>Hi there, I'm Abby! </p>
+  <p>I'm a graduate student in Computer Science at Tufts University 🐘. </p>
+</div>
+
+##Skills and Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,javascript,jquery,php,express,nodejs,mongodb,mysql,postgres" />
+  </a>
+</p>
+
 
 <!--
 **abbyray08/abbyray08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
