@@ -1,5 +1,6 @@
 <div> 
-  <h2>Hi there, I'm Abby Kozlowski! </h2>
+<h2> About me </h2>
+  <p>Hi there, I'm Abby Kozlowski! </p>
   <p>I'm a graduate student in Computer Science at Tufts University 🐘. </p>
 </div>
 
